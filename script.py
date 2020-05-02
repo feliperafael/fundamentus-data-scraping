@@ -26,7 +26,7 @@ def parse_html(html):
     soup = BeautifulSoup(html)
     tables = soup.findAll("table")
     
-    df = pd.read_html(str(tables).replace('?', ''))
+    df = pd.read_html(str(tables).replace('?', ''),decimal=',',thousands='.')
     return df
 
 if __name__ == "__main__":
