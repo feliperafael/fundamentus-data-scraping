@@ -12,19 +12,34 @@ O script `script.py` extrai os seguintes dados para o ativo especificado:
 
 Os dados são extraídos da página de detalhes do ativo no Fundamentus.
 
-## Dependências
+## Configurando o Ambiente
 
-- Python 3.x
-- Bibliotecas Python:
-  - requests
-  - BeautifulSoup
-  - pandas
+É recomendado usar um ambiente virtual para isolar as dependências deste projeto. Para criar e ativar um ambiente virtual:
 
-Instale as dependências rodando:
+```bash
+# Criar ambiente virtual
+python3 -m venv venv
 
+# Ativar ambiente virtual
+source venv/bin/activate  # No Linux
+venv\Scripts\activate     # No Windows
 ```
+
+Depois de ativar o ambiente virtual, instale as dependências com:
+
+```bash
 pip install -r requirements.txt
 ```
+
+## Dependências
+
+As dependências do projeto estão listadas no arquivo `requirements.txt`:
+
+- beautifulsoup4==4.11.2
+- pandas==1.5.3
+- requests==2.28.2
+
+Instale todas as dependências de uma vez usando `pip install -r requirements.txt` (de preferência dentro do seu ambiente virtual).
 
 ## Como Usar
 
