@@ -1,28 +1,28 @@
-Papel,ABEV3,Cotação,1637,,
-Tipo,ON NM,Data últ cot,06/03/2019,,
-Empresa,AMBEV S/A ON NM,Min 52 sem,1474,,
-Setor,Bebidas,Max 52 sem,2365,,
-Subsetor,Cervejas e Refrigerantes,Vol $ méd (2m),442.638.000,,
-Valor de mercado,257.372.000.000,Últ balanço processado,31/12/2018,,
-Valor da firma,248.317.000.000,Nro. Ações,15.722.100.000,,
+Papel,ABEV3,Cotação,11.11,,
+Tipo,ON,Data últ cot,30/01/2025,,
+Empresa,AMBEV S/A ON,Min 52 sem,10.54,,
+Setor,Bebidas,Max 52 sem,13.71,,
+Subsetor,Cervejas e Refrigerantes,Vol $ méd (2m),488570000,,
+Valor de mercado,175068000000,Últ balanço processado,30/09/2024,,
+Valor da firma,157509000000,Nro. Ações,15757700000,,
 Oscilações,Oscilações,Indicadores fundamentalistas,Indicadores fundamentalistas,Indicadores fundamentalistas,Indicadores fundamentalistas
-Dia,"-2,73%",P/L,2335,LPA,070
-Mês,"-10,84%",P/VP,457,VPA,358
-30 dias,"-12,18%",P/EBIT,1596,Marg. Bruta,"61,6%"
-12 meses,"-25,42%",PSR,512,Marg. EBIT,"32,1%"
-2019,"6,44%",P/Ativos,273,Marg. Líquida,"22,7%"
-2018,"-25,59%",P/Cap. Giro,51348,EBIT / Ativo,"17,1%"
-2017,"33,10%",P/Ativ Circ Liq,-2288,ROIC,"23,1%"
-2016,"-4,96%",Div. Yield,"2,9%",ROE,"19,6%"
-2015,"12,07%",EV / EBIT,1540,Liquidez Corr,102
-2014,"-1,42%",Giro Ativos,053,Div Br/ Patrim,004
-,,Cres. Rec (5a),"6,0%",,
+Dia,"1,28%",P/L,12.55,LPA,0.88
+Mês,"-5,37%",P/VP,1.78,VPA,6.23
+30 dias,"-7,95%",P/EBIT,9.96,Marg. Bruta,"51,0%"
+12 meses,"-11,80%",PSR,2.12,Marg. EBIT,"21,3%"
+2025,"-5,37%",P/Ativos,1.19,Marg. Líquida,"17,4%"
+2024,"-10,06%",P/Cap. Giro,25.01,EBIT / Ativo,"11,9%"
+2023,"-1,27%",P/Ativ Circ Liq,-30.56,ROIC,"16,4%"
+2022,"-1,65%",Div. Yield,"6,0%",ROE,"14,2%"
+2021,"2,39%",EV / EBITDA,6.61,Liquidez Corr,1.20
+2020,"-16,56%",EV / EBIT,8.96,Div Br/ Patrim,0.03
+,,Cres. Rec (5a),"10,0%",Giro Ativos,0.56
 Dados Balanço Patrimonial,Dados Balanço Patrimonial,Dados Balanço Patrimonial,Dados Balanço Patrimonial,,
-Ativo,94.126.100.000,Dív. Bruta,2.422.770.000,,
-Disponibilidades,11.476.900.000,Dív. Líquida,-9.054.120.000,,
-Ativo Circulante,25.329.600.000,Patrim. Líq,56.340.600.000,,
+Ativo,147286000000,Dív. Bruta,3380270000,,
+Disponibilidades,20939000000,Dív. Líquida,-17558800000,,
+Ativo Circulante,42672900000,Patrim. Líq,98140400000,,
 Dados demonstrativos de resultados,Dados demonstrativos de resultados,Dados demonstrativos de resultados,Dados demonstrativos de resultados,,
 Últimos 12 meses,Últimos 12 meses,Últimos 3 meses,Últimos 3 meses,,
-Receita Líquida,50.231.300.000,Receita Líquida,16.017.800.000,,
-EBIT,16.128.500.000,EBIT,6.062.590.000,,
-Lucro Líquido,11.024.700.000,Lucro Líquido,3.360.400.000,,
+Receita Líquida,82406500000,Receita Líquida,22096700000,,
+EBIT,17578000000,EBIT,4737860000,,
+Lucro Líquido,13944500000,Lucro Líquido,3460270000,,
